@@ -5,6 +5,7 @@
     "homepage": "http://phpmorphy.sourceforge.net/",
     "type": "library",
     "license": "GNU GPL 2.1",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Kamaev Vladimir",
